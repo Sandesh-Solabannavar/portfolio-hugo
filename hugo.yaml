@@ -58,6 +58,10 @@ params:
     - name: "github"
       url: "https://github.com/sandesh-solabannavar"
 
+  assets:
+    disableFingerprinting: true # disable fingerprinting for assets
+    favicon: "https://github.com/Sandesh-Solabannavar.png"
+
   # text search
   fuseOpts:
     isCaseSensitive: false
