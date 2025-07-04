@@ -1,0 +1,82 @@
+baseURL: "https://portfolio.isandeshsol.com/"
+languageCode: en-us
+title: Sandesh Solabannavar
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 20
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 40
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Sandesh Solabannavar"
+    subtitle: Hi 👋 I'm Sandesh, a tech enthusiast who loves solving complex problems. As a Module Lead at [**Happiest Minds**](https://www.happiestminds.com), I'm building robust systems to transform the learning experience for all. By evening, you can find me pushing the limits of my strength at the gym or working on my Homelab proect. Let's connect and create something awesome together!
+    imageUrl: "https://github.com/Sandesh-Solabannavar.png"
+    imageWidth: 220
+    imageHeight: 220
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:solabannavar.sandesh@gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/sandesh-solabannavar"
+    - name: "github"
+      url: "https://github.com/sandesh-solabannavar"
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
