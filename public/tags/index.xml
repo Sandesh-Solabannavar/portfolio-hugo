@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Sandesh Solabannavar</title>
+    <link>https://portfolio.isandeshsol.com/tags/</link>
+    <description>Recent content in Tags on Sandesh Solabannavar</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <atom:link href="https://portfolio.isandeshsol.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Angular</title>
+      <link>https://portfolio.isandeshsol.com/tags/angular/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.isandeshsol.com/tags/angular/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cicd</title>
+      <link>https://portfolio.isandeshsol.com/tags/cicd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.isandeshsol.com/tags/cicd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dapper</title>
+      <link>https://portfolio.isandeshsol.com/tags/dapper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.isandeshsol.com/tags/dapper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://portfolio.isandeshsol.com/tags/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.isandeshsol.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dotnet</title>
+      <link>https://portfolio.isandeshsol.com/tags/dotnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.isandeshsol.com/tags/dotnet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dotnet Core</title>
+      <link>https://portfolio.isandeshsol.com/tags/dotnet-core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.isandeshsol.com/tags/dotnet-core/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entity</title>
+      <link>https://portfolio.isandeshsol.com/tags/entity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.isandeshsol.com/tags/entity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jquery</title>
+      <link>https://portfolio.isandeshsol.com/tags/jquery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.isandeshsol.com/tags/jquery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kafka</title>
+      <link>https://portfolio.isandeshsol.com/tags/kafka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.isandeshsol.com/tags/kafka/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubernetes</title>
+      <link>https://portfolio.isandeshsol.com/tags/kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.isandeshsol.com/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mvc</title>
+      <link>https://portfolio.isandeshsol.com/tags/mvc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.isandeshsol.com/tags/mvc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rdlc</title>
+      <link>https://portfolio.isandeshsol.com/tags/rdlc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.isandeshsol.com/tags/rdlc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sqlserver</title>
+      <link>https://portfolio.isandeshsol.com/tags/sqlserver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.isandeshsol.com/tags/sqlserver/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

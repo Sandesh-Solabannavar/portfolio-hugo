@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dotnet Core on Sandesh Solabannavar</title>
+    <link>https://portfolio.isandeshsol.com/tags/dotnet-core/</link>
+    <description>Recent content in Dotnet Core on Sandesh Solabannavar</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <atom:link href="https://portfolio.isandeshsol.com/tags/dotnet-core/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Fulfillment Service</title>
+      <link>https://portfolio.isandeshsol.com/projects/digitalfullmentservice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.isandeshsol.com/projects/digitalfullmentservice/</guid>
+      <description>Digital Fulfillment Service is an application which is used to fulfill the Digital purchase done and assign the appropriate grants to the user.</description>
+    </item>
+    <item>
+      <title>Course Manager</title>
+      <link>https://portfolio.isandeshsol.com/projects/coursemanger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.isandeshsol.com/projects/coursemanger/</guid>
+      <description>Course manager is a micro service used by multiple BUs in their application where the students can view, take or review the courses they are enrolled.</description>
+    </item>
+    <item>
+      <title>Certificate Service</title>
+      <link>https://portfolio.isandeshsol.com/projects/certificateservice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.isandeshsol.com/projects/certificateservice/</guid>
+      <description>Certificate Service is an applicating which is used to award the students with the Certificate once the course is completed.</description>
+    </item>
+  </channel>
+</rss>
