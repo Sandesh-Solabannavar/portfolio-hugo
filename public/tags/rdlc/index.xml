@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rdlc on Sandesh Solabannavar</title>
-    <link>http://localhost:1313/tags/rdlc/</link>
+    <link>https://portfolio.isandeshsol.com/tags/rdlc/</link>
     <description>Recent content in Rdlc on Sandesh Solabannavar</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/rdlc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://portfolio.isandeshsol.com/tags/rdlc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LEAP</title>
-      <link>http://localhost:1313/projects/leap/</link>
+      <link>https://portfolio.isandeshsol.com/projects/leap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/leap/</guid>
+      <guid>https://portfolio.isandeshsol.com/projects/leap/</guid>
       <description>LEAP application is designed to execute and monitor the flow of Himalaya Drugs Company products in the Indian Market.</description>
     </item>
     <item>
       <title>LEAP Pharma</title>
-      <link>http://localhost:1313/projects/leappharms/</link>
+      <link>https://portfolio.isandeshsol.com/projects/leappharms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/leappharms/</guid>
+      <guid>https://portfolio.isandeshsol.com/projects/leappharms/</guid>
       <description>LEAP Pharma application is designed to execute and monitor the flow of Himalaya Drugs Company products in the Indian Market.</description>
     </item>
   </channel>
