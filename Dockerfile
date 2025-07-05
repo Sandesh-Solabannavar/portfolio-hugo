@@ -1,4 +1,4 @@
-FROM hugomods/hugo:exts-0.118.2
+FROM hugomods/hugo:exts-0.118.2 AS builder
 
 # Create a folder for our project
 WORKDIR /app
@@ -19,12 +19,13 @@ ENV BASE_URL=$BASE_URL
 RUN npm install --ignore-scripts
 
 RUN hugo --baseURL=$BASE_URL
+RUN echo $(ls -1 /app)
 
 FROM nginx:alpine
 
 # Copy the generated content of the Hugo website
 # into the Nginx root directory
-COPY --from=0 /app/public /usr/share/nginx/html
+COPY --from=builder /app/public /usr/share/nginx/html
 
 # Start Nginx when the container starts
 CMD ["nginx", "-g", "daemon off;"]
