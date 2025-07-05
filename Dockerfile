@@ -19,7 +19,7 @@ ENV BASE_URL=$BASE_URL
 # If you don't use a hyas theme, npm install doesn't need to be executed.
 RUN npm install --ignore-scripts
 
-RUN hugo --config hugo.yaml
+RUN hugo --gc --baseURL $BASE_URL --destination public --minify
 
 FROM nginx:alpine
 
