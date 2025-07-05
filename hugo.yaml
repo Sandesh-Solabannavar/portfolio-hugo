@@ -1,8 +1,8 @@
-# baseURL: "https://portfolio.isandeshsol.com/"
+baseURL: "/"
 languageCode: en-us
 title: Sandesh Solabannavar
 theme: PaperMod
-relativeURLs: true
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
