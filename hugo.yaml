@@ -32,6 +32,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   hideMeta: false
+  defaultTheme: dark # default theme for the site
 
   # for enchanced SEO
   env: production
