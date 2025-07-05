@@ -3,6 +3,18 @@ languageCode: en-us
 title: Sandesh Solabannavar
 theme: PaperMod
 
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
+
 menu:
   main:
     - identifier: home
@@ -11,15 +23,15 @@ menu:
       weight: 10
     - identifier: projects
       name: Projects
-      url: /projects
+      url: projects/
       weight: 20
     - identifier: experience
       name: Experience
-      url: /experience
+      url: experience/
       weight: 30
     - identifier: search
       name: Search
-      url: /search
+      url: search/
       weight: 40
 
 params:
@@ -36,6 +48,8 @@ params:
 
   # for enchanced SEO
   env: production
+  description: "Sandesh Solabannavar | Full Stack Developer"
+  author: Sandesh Solabannavar
 
   # Home Page
   profileMode:
