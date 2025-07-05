@@ -9,7 +9,7 @@ COPY . .
 
 # Create an ARG argument for the BASE_URL of the
 # Hugo application with a default value
-ARG BASE_URL=http://localhost/
+ARG BASE_URL=https://portfolio.isandeshsol.com/
 
 # Use BASE_URL if provided as an ENV parameter
 ENV BASE_URL=$BASE_URL
