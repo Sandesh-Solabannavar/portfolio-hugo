@@ -9,7 +9,7 @@ COPY . .
 
 # Create an ARG argument for the BASE_URL of the
 # Hugo application with a default value
-ARG BASE_URL=https://portfolio.isandeshsol.com/
+ARG BASE_URL=https://portfolio.isandeshsol.com
 
 # Use BASE_URL if provided as an ENV parameter
 ENV BASE_URL=$BASE_URL
@@ -19,7 +19,7 @@ ENV BASE_URL=$BASE_URL
 # If you don't use a hyas theme, npm install doesn't need to be executed.
 RUN npm install --ignore-scripts
 
-RUN hugo --config hugo.yaml server --baseURL=$BASE_URL
+RUN hugo --config hugo.yaml
 
 FROM nginx:alpine
 
