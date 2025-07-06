@@ -49,7 +49,6 @@ params:
   # for enchanced SEO
   env: production
   description: "Sandesh Solabannavar | Full Stack Developer"
-  author: Sandesh Solabannavar
 
   # Home Page
   profileMode:
