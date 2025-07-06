@@ -55,7 +55,7 @@ params:
   profileMode:
     enabled: true
     title: "Sandesh Solabannavar"
-    subtitle: Hi 👋 I'm Sandesh, a tech enthusiast who loves solving complex problems. As a Module Lead at [**Happiest Minds**](https://www.happiestminds.com), I'm building robust systems to transform the learning experience for all. By evening, you can find me pushing the limits of my strength at the gym or working on my Homelab proect. Let's connect and create something awesome together!
+    subtitle: Hi 👋 I'm Sandesh, I'm Sandesh — a technology enthusiast and problem solver. I'm a Module Lead at [**Happiest Minds**](https://www.happiestminds.com), where I design and build robust, scalable systems to elevate digital learning experiences. I’m passionate about clean architecture, automation, and creating solutions that make an impact. Outside of work, I enjoy challenging myself at the gym and tinkering in my **Homelab**, where I explore self-hosted tools, cloud-native tech, and infrastructure automation. **Let’s connect and build something meaningful together.**
     imageUrl: "https://github.com/Sandesh-Solabannavar.png"
     imageWidth: 220
     imageHeight: 220
