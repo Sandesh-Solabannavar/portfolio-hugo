@@ -1,7 +1,7 @@
 FROM klakegg/hugo:ext-alpine AS builder
 WORKDIR /src
 COPY . .
-RUN hugo --gc --baseURL https://portfolio.isandeshsol.com --destination public --minify
+RUN hugo --gc --baseURL https://isandeshsol.com --destination public --minify
 RUN echo $(ls -l /src)
 
 FROM nginx:alpine
