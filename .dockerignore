@@ -12,7 +12,6 @@ node_modules/
 *.log
 
 # Git / IDE
-.git/
 .gitignore
 .vscode/
 .DS_Store
