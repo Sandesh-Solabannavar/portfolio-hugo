@@ -1,6 +1,8 @@
 FROM hugomods/hugo:0.146.0 AS builder
 WORKDIR /src
 COPY . .
+RUN hugo mod get -u
+RUN hugo mod vendor
 RUN hugo --gc --minify
 
 FROM nginx:alpine
