@@ -1,0 +1,19 @@
+# Build artifacts
+public/
+resources/_gen/
+hugo_stats.json
+
+# Hugo cache
+.cache/
+hugo_cache/
+
+# Node / Assets (if using tailwind/postcss)
+node_modules/
+*.log
+
+# Git / IDE
+.git/
+.gitignore
+.vscode/
+.DS_Store
+.env
